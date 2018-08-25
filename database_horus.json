@@ -1,0 +1,21 @@
+{
+	"count":1
+	"crescimento":[
+		{
+		"taxaCrescimento":[
+			{
+				"1":20.0,
+				"2":23.2,
+				"3":12.1
+			}
+		],
+		}
+	],
+
+	"descricao":"americana",
+	"nome":"americana",
+	"novaFoto": false,
+	"pixelsAnterior":3952340,
+	"ultimaCaptura":"26-04-2018-\n 09:22:12",
+	"variedade":"americana"
+}
